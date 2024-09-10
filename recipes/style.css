@@ -1,0 +1,21 @@
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 400px;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.howto {
+    text-align: center;
+    font-size: 25px;
+}
+
